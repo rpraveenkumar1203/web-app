@@ -1,1 +1,1 @@
-# web-app
+# A minimalistic web-app
